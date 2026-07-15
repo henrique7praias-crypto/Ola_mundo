@@ -1,3 +1,3 @@
 # Olá, Mundo!
-meu primeiro repsitorio 
+meu primeiro repsitorio de Git e GitHub
 
